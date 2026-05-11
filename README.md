@@ -11,4 +11,4 @@ I am an adventurer loading my arsenal with more and more of AI, Data Engineering
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahidul-islam-v&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mahidul-islam-v&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mahidul-islam-v&icon=0)](https://visitcount.itsvg.in)
