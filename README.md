@@ -12,6 +12,6 @@ I am an adventurer expanding my arsenal with more and more of AI, Data Engineeri
 ![Shion's GitHub stats](https://shion.dev)
 
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahidul-islam-v&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahidul-islam-v&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/mahidul-islam-v?label=Profile+Views)
