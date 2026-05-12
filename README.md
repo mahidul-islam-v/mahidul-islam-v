@@ -10,4 +10,4 @@ I am an adventurer loading my arsenal with more and more of AI, Data Engineering
 ## 📊 GitHub Stat:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahidul-islam-v&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![MAHI profile views](https://u8views.com/api/v1/github/profiles/140878808/views/day-week-month-total-count.svg)](https://u8views.com/github/mahidul-islam-v)
+![Profile Views](https://views.igorkowalczyk.dev/api/badge/mahidul-islam-v)
