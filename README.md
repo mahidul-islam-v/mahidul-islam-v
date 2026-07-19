@@ -1,4 +1,4 @@
-<div align='center'>
+<div style="padding-left:50px">
 
 # Hi, I'm Mahi 👋
 
