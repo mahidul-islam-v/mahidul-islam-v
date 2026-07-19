@@ -2,7 +2,7 @@
 
 # Hi, I'm Mahi 👋
 
-## A web engineer based in Bangladesh.
+### A web engineer based in Bangladesh.
 
 I am currently deepening my skills in backend development. I like building projects that solve my own problems first — and have the potential to help others along the way.
 
