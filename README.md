@@ -1,8 +1,11 @@
 <div align="center">
 
 # Hi, I'm Mahi 👋
+### Web Engineer · Bangladesh
 
-**Learning to build things that work — one commit at a time.**
+I'm a web engineer based in Bangladesh, currently deepening my skills in backend development. I like building projects that solve my own problems first — and have the potential to help others along the way.
+
+🔭 **Currently focused on:** Backend development with Python & FastAPI
 
 <br>
 
@@ -23,5 +26,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+
+<br>
+
+> "Theory and practice sometimes clash. And when that happens, theory loses. Every single time."
+> — Linus Torvalds
 
 </div>
