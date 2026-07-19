@@ -15,6 +15,7 @@ I'm currently deepening my skills in backend development. I like building projec
 
 <div align="center">
 <br>
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -32,7 +33,6 @@ I'm currently deepening my skills in backend development. I like building projec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 
-<br>
 <br>
 
 > "Theory and practice sometimes clash. And when that happens, theory loses. Every single time."
