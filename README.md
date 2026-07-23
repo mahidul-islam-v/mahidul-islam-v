@@ -35,7 +35,7 @@ I'm currently deepening my skills in backend development. I like building projec
 
 <br>
 
-> "Theory and practice sometimes clash. And when that happens, theory loses. Every single time."
+> "I like offending people, because I think people who get offended should be offended"
 > — Linus Torvalds
 
 </div>
