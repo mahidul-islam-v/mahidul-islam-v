@@ -9,7 +9,7 @@
 
 I'm currently deepening my skills in backend development. I like building projects that solve my own problems first — and have the potential to help others along the way.
 
-🔭 **Currently focused on:** Backend development with Python & FastAPI
+🔭 **Current focused:** Frontend Frameworks & API usage
 
 </div>
 
